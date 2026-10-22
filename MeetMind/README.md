@@ -62,7 +62,7 @@ The `.env` file is used for local configuration and must not be committed to ver
 
 ```bash
 git clone https://github.com/Techie-Akanksha/MeetMind-AI.git
-cd "AI Meeting Intelligence"
+cd "MeetMind AI"
 ```
 
 ### 2. Create a Virtual Environment
